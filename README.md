@@ -14,4 +14,7 @@ A ideia aqui é oferecer uma experiência rápida e prática de DevOps com a ent
 2. Após isso entre com os comandos a seguir:
 ```vagrant up```
 3. Acesse a url: 192.168.1.10
-4. Entre com as informações de banco: SQL server (MariaDB or MySQL): glpi | SQL user: glṕi | SQL password: glpipass
+4. Entre com as informações de banco: 
+SQL server (MariaDB or MySQL): glpi 
+SQL user: glpi
+SQL password: glpipass

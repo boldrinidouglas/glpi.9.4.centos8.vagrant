@@ -12,6 +12,6 @@ A ideia aqui é oferecer uma experiência rápida e prática de DevOps com a ent
 ## Instalação
 1. Crie um diretorio e copie os arquivos lá para dentro (glpifast.sh e Vagrantfile). 
 2. Após isso entre com os comandos a seguir:
-```#vagrant up```
+```vagrant up```
 3. Acesse a url: 192.168.1.10
 4. Entre com as informações de banco: SQL server (MariaDB or MySQL): glpi | SQL user: glṕi | SQL password: glpipass

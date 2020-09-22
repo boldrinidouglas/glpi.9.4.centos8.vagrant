@@ -2,7 +2,7 @@
  GLPI Versão 9.4 para CentOS 8 com Vagrant
 
 ## Introdução
-A ideia aqui é oferecer uma experiência rápida e prática de DevOps com a entrega de uma instância no CentOS 8 com GLPI 4.2. Utilizei o Vagrante para simplificar a gerência de configuração de software das virtualizações para aumentar a produtividade do desenvolvimento e testes de novas versões.
+A ideia aqui é oferecer uma experiência rápida e prática de uma rotina de DevOps com a entrega de uma instância com CentOS 8 rodando o GLPI 4.2. Utilizei o Vagrante para simplificar a gerência de configuração de software das virtualizações para aumentar a produtividade do desenvolvimento e testes de novas versões.
 
 ## Pre-requisitos
 * [Vagrant](https://www.vagrantup.com/downloads.html) Instalado
